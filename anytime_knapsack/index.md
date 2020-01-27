@@ -14,7 +14,8 @@ In this work we address the Algorithm Selection Problem, i.e., the decision of w
 * (Solver results)[https://drive.google.com/file/d/1bqnlNtV6E3Ct76iKyvL6kB3QKEVfIdHX/view]
 
 For Python, we recommend using pandas to open the files:
-
-    import pandas as pd
-    features = pd.read_csv("features.csv")
-    solver_results = pd.read_csv("solver_results.csv")
+```python
+import pandas as pd
+features = pd.read_csv("features.csv")
+solver_results = pd.read_csv("solver_results.csv")
+```
