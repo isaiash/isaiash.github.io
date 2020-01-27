@@ -11,8 +11,8 @@ In this work we address the Algorithm Selection Problem, i.e., the decision of w
 
 Datasets for different approaches are available at the following links:
 
-|         Approach         | state-of-the-art solvers | Naive solvers |
-|:------------------------:|:------------------------:|:-------------:|
-| Best (Classification)    |           [link](https://pages.github.com)     |      link     |
-| Ranking (Classification) |           link           |      link     |
-| Optimality (Regression)  |           link           |      link     |
+|         Approach         	| state-of-the-art<br>solvers 	| Naive<br>solvers 	|
+|:------------------------:	|:---------------------------:	|:----------------:	|
+| Best (Classification)    	|             link            	|       link       	|
+| Ranking (Classification) 	|             link            	|       link       	|
+| Optimality (Regression)  	|             link            	|       link       	|
