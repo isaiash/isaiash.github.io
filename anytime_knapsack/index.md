@@ -9,10 +9,12 @@ In this work we address the Algorithm Selection Problem, i.e., the decision of w
 
 ### Dataset
 
-Datasets for different approaches are available at the following links:
+* (Knapsack instances)[https://drive.google.com/drive/folders/1vr-cJKPvfwQpJDqK5S8iokLqjloJ2SCV]
+* (Features)[https://drive.google.com/file/d/1AQxOkVo2B7ufJbAUsLuY4k6Y_k2iiPID/view]: 21 features for the 15,000 instances. The instance identifier is the index.
+* (Solver results)[https://drive.google.com/file/d/1bqnlNtV6E3Ct76iKyvL6kB3QKEVfIdHX/view]
 
-|         Approach         	| state-of-the-art<br>solvers 	| Naive<br>solvers 	|
-|:------------------------:	|:---------------------------:	|:----------------:	|
-| Best (Classification)    	|             link            	|       link       	|
-| Ranking (Classification) 	|             link            	|       link       	|
-| Optimality (Regression)  	|             link            	|       link       	|
+For Python, we recommend using pandas to open the files:
+
+    import pandas as pd
+    features = pd.read_csv("features.csv")
+    solver_results = pd.read_csv("solver_results.csv")
