@@ -14,7 +14,7 @@ In this work we address the Algorithm Selection Problem, i.e., the decision of w
 * [Features](https://drive.google.com/file/d/1AQxOkVo2B7ufJbAUsLuY4k6Y_k2iiPID/view): 21 features for the 15,000 instances. The instance identifier is the index.
 * [Solver results](https://drive.google.com/file/d/1bqnlNtV6E3Ct76iKyvL6kB3QKEVfIdHX/view)
 
-For Python, we recommend using pandas to open the files:
+For Python, we recommend using pandas to open files:
 ```python
 import pandas as pd
 features = pd.read_csv("features.csv")
