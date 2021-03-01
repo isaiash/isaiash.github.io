@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Anytime Automatic Algorithm Selection for Knapsack
+title: Anytime Automatic Algorithm Selection for TSP
 tagline: 
-description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-In this work we address the Algorithm Selection Problem, i.e., the decision of which algorithm to use from a set of alternatives, given an instance. For the selection, we take into account a given time limit as a parameter. Hence, the learning is based on the anytime behavior of the algorithms. We test this approach over the well known **Knapsack Problem**.
+This work presents a new metaheuristic for the euclidean Traveling Salesman Problem (TSP) based on an Anytime Automatic Algorithm Selection model using a portfolio of five state-of-the-art solvers. We introduce a new spatial representation of nodes, in the form of a matrix grid, avoiding costly calculation of features. Furthermore, we use a new compact *Staggered representation* for the ranking of algorithms at each time step. Then, we feed inputs (matrix grid) and outputs (staggered representation) into a classifying convolutional neural network to predict the ranking of the solvers at a given time. We use the available datasets for TSP and generate new instances to augment the number, reaching 6,689 instances, distributed into training and test sets. Results show that the time required to predict the best solver is drastically reduced in comparison to previous traditional feature selection and machine learning methods. Furthermore, the prediction can be obtained at any time and, on average, the metasolver is better than running all the solvers separately on all the datasets, obtaining 79.8% accuracy.
 
-### Dataset
+### TSP Instances
 
-* [Knapsack instances](https://drive.google.com/drive/folders/1vr-cJKPvfwQpJDqK5S8iokLqjloJ2SCV)
-* [Features](https://drive.google.com/file/d/1AQxOkVo2B7ufJbAUsLuY4k6Y_k2iiPID/view): 21 features for the 15,000 instances. The instance identifier is the index.
-* [Solver results](https://drive.google.com/file/d/1bqnlNtV6E3Ct76iKyvL6kB3QKEVfIdHX/view)
+* [Generated Instances (train)](https://drive.google.com/drive/folders/1OKzNy0mv0W0jlhauDmmoBiLKIhBDmGlh?usp=sharing)
+* [Public Instances (test)](https://drive.google.com/drive/folders/1M4OZIpD2MilHUEp283ofgBTezQcDdnmh?usp=sharing)
 
-For Python, we recommend using pandas to open the files:
-```python
-import pandas as pd
-features = pd.read_csv("features.csv")
-solver_results = pd.read_csv("solver_results.csv")
-```
+### Instance-Solver Execution
+
+* [Executions](https://drive.google.com/drive/folders/1X9m-mvj1sEovwhRiNpnTrm3ID8SAdVT0?usp=sharing)
