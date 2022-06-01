@@ -846,7 +846,7 @@ class TrackballControls extends THREE.EventDispatcher {
 	init();
 	animate();
 	function init() {
-		camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 1, 1000 );
+		camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 1, 500 );
 		camera.position.y = 150;
 		camera.position.z = 500;
 		scene = new THREE.Scene();
@@ -866,7 +866,7 @@ class TrackballControls extends THREE.EventDispatcher {
 		scene.add( plane );
 		renderer = new THREE.WebGLRenderer();
 		renderer.setSize( window.innerWidth, window.innerHeight );
-		effect = new AsciiEffect( renderer, ' .:-+*=%@#', { invert: true } );
+		effect = new AsciiEffect( renderer, ' .:-+*=%@#ISAIASisaiasí', { invert: true } );
 		effect.setSize( window.innerWidth, window.innerHeight );
 		effect.domElement.style.color = 'black';
 		effect.domElement.style.backgroundColor = 'white';
