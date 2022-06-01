@@ -857,7 +857,7 @@ class TrackballControls extends THREE.EventDispatcher {
 		const pointLight2 = new THREE.PointLight( 0xffffff, 0.25 );
 		pointLight2.position.set( - 500, - 500, - 500 );
 		scene.add( pointLight2 );
-		sphere = new THREE.Mesh( new THREE.SphereGeometry( 200, 40, 20 ), new THREE.MeshPhongMaterial( { flatShading: true } ) );
+		sphere = new THREE.Mesh( new THREE.SphereGeometry( 200, 40, 20 ), new THREE.MeshPhongMaterial( { flatShading: false } ) );
 		scene.add( sphere );
 		// Plane
 		plane = new THREE.Mesh( new THREE.PlaneGeometry( 400, 400 ), new THREE.MeshBasicMaterial( { color: 0xe0e0e0 } ) );
