@@ -9,3 +9,5 @@ code {
 a code {
   color: #08c;
 }
+
+canvas { width: 100%; height: 100% }
