@@ -15,7 +15,7 @@ ihuerta.var@gmail.com
 
 * (2021) [Improving the state-of-the-art in the Traveling Salesman Problem: An Anytime Automatic Algorithm Selection](https://isaiash.github.io/anytime_tsp/). *Expert Systems With Application 2022*.
 
-* (2021) [Group-Wise Cortical Surface Parcellation Based on Inter-Subject Fiber Clustering](https://pubmed.ncbi.nlm.nih.gov/34891798/). *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 21)*, 2021.
+* (2021) [Group-Wise Cortical Surface Parcellation Based on Inter-Subject Fiber Clustering](https://pubmed.ncbi.nlm.nih.gov/34891798/). *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021)*.
 
 * (2020) [Machine learning for Knapsack, an any-time behavior approach](https://isaiash.github.io/anytime_knapsack/). *Expert Systems With Application 2020*. Presented at the *11th International Workshop on Hybrid Metaheuristics*, Concepción, Chile. 
 
