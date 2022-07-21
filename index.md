@@ -2,8 +2,8 @@
 layout: page
 title: Isaías Huerta
 tagline: Computer Scientist
-[**Resume**](https://drive.google.com/file/d/1hOIx4TP9eWmsMg-Q9ZNsqd_IbZ0-9DXQ/view?usp=sharing)
 ---
+[**Resume**](https://drive.google.com/file/d/1hOIx4TP9eWmsMg-Q9ZNsqd_IbZ0-9DXQ/view?usp=sharing)
 
 [Github](https://github.com/isaiash)
 
