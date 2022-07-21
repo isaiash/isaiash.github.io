@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Isaías Huerta
-tagline: Magíster en Ciencias de la Computación
----
-
+tagline: Computer Scientist
 [**Resume**](https://drive.google.com/file/d/1hOIx4TP9eWmsMg-Q9ZNsqd_IbZ0-9DXQ/view?usp=sharing)
+---
 
 [Github](https://github.com/isaiash)
 
