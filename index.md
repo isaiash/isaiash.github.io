@@ -3,15 +3,10 @@ layout: page
 title: Isaías Huerta
 tagline: Computer Scientist
 ---
-[**Resume**](https://drive.google.com/file/d/1FGiu9FrDqhekOCSJUY0VK-ZBHBUIf2JO/view?usp=sharing)
+[**Resume**](https://drive.google.com/file/d/1FGiu9FrDqhekOCSJUY0VK-ZBHBUIf2JO/view?usp=sharing) · [Github](https://github.com/isaiash) · [Linkedin](https://www.linkedin.com/in/isaiash)
 
-[Github](https://github.com/isaiash)
+ihuerta.var@gmail.com · +569 40830771
 
-[Linkedin](https://www.linkedin.com/in/isaiash)
-
-ihuerta.var@gmail.com
-
-+56 9 44755236
 * (2023) Software architecture and development approach for the ASTRI Mini-Array project at the Teide Observatory. *Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)*.
 * (2022) [Fast Algorithms for the Capacitated Vehicle Routing Problem using Machine Learning Selection of Algorithm’s Parameters](https://hochbaum.ieor.berkeley.edu/html/pub/VRP-meta-algorithm-KDIR22.pdf). *Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2022)*.
 * (2021) [Improving the state-of-the-art in the Traveling Salesman Problem: An Anytime Automatic Algorithm Selection](https://isaiash.github.io/anytime_tsp/). *Expert Systems With Application 2022*.
