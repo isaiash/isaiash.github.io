@@ -8,7 +8,9 @@ tagline: Computer Scientist
 ihuerta.var@gmail.com · +569 40830771
 
 * (2023) Software architecture and development approach for the ASTRI Mini-Array project at the Teide Observatory. *Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)*.
+
 * (2022) [Fast Algorithms for the Capacitated Vehicle Routing Problem using Machine Learning Selection of Algorithm’s Parameters](https://hochbaum.ieor.berkeley.edu/html/pub/VRP-meta-algorithm-KDIR22.pdf). *Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2022)*.
+
 * (2021) [Improving the state-of-the-art in the Traveling Salesman Problem: An Anytime Automatic Algorithm Selection](https://isaiash.github.io/anytime_tsp/). *Expert Systems With Application 2022*.
 
 * (2021) [Group-Wise Cortical Surface Parcellation Based on Inter-Subject Fiber Clustering](https://pubmed.ncbi.nlm.nih.gov/34891798/). *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021)*.
